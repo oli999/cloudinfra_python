@@ -31,3 +31,4 @@ nums.pop()
 result = nums.pop()
 
 print("종료 합니다")
+
